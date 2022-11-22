@@ -6,4 +6,4 @@ A lil repo for you to clone and use for screwing around with [Phlex](https://www
 I like [Phlex](https://www.phlex.fun). I think it's fun. I wanted to play with it with all of the conveniences of home.
 
 ## W-how
-I mean, there's 8 files including this one. Poke around.
+`bundle exec guard` will kick off your server and livereload. Then just, you know... get in there.
